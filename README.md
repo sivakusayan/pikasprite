@@ -11,7 +11,7 @@ $> yarn add pikasprite
 ```js
 import 'pikasprite/build/spritesheet.css';
 
-const Pikachu = () => <i className={`pkspr pokemon-pikachu`}/>;
+const Pikachu = () => <i className={`pkspr-pokemon-pikachu`}/>;
 ```
 
 ## Icon List
